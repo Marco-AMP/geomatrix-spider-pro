@@ -1,0 +1,22 @@
+{
+  "name": "isocronas",
+  "label": "GeoMatrix Spider Pro",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "properties": {
+    "hasConfig": false,
+    "hasStyle": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 600
+  },
+  "uri": "widgets/isocronas/dist/runtime/widget"
+}
